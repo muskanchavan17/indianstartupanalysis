@@ -150,3 +150,6 @@ As we see from the graph above, maximum number of startups are based in Banglore
 
 # Conclusion
 So, this was all our analysis, we got to know about the industries favored by investors, common investment types, and many more interesting observations about the Indian Startup Ecosystem. We also got to know that the year 2015 and 2016 were the booming years for Indian startups, with the most number of startups funded, and gradually started declining in 2017. A factor that could contribute to this sharp decline would be the announcement of Demonetization by the Indian Government in November 2016.
+
+To know more about the project click on the GitHub link -
+[Indian Startups Analysis](https://github.com/muskanchavan17/Indian-Startup-Analysis)
