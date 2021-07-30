@@ -89,3 +89,29 @@ Checking out top 10 sub-categories of industry having highest number of startups
 |	1mg	                | 30000000      |
 |	bluestone	          | 30000000      |
 |	voonik	            | 29000000      |
+
+*Paytm, Flipkart, SnapDeal* are top ECommerce based startups with highest amount funded
+![](/images/4top10sub-categoriesinecommerce.png)
+There are 6 startups based on Online Pharmacy sub-category, followed by 3 startups in ECommerce Marketplace Sub-Category.
+
+# Q4. Which period had the most number of startups funded.
+![](/images/5quarterly%20trend.png)
+Now, we can see that 2015, and 2016 saw most number of startups being funded. highest being in Quarter 3 of 2015. Then it started declining in 2017 Q1 to 166 startups and 2017 Q4 down to only 52 startups being funded
+# Q5. which City has maximum startups?
+![](/images/6.png)
+As we see from the graph above, maximum number of startups are based in Banglore (26.72%), followed by Mumbai (18.9%), New Delhi (16.2%), and Gurgaon (10.16%)
+72% of the startups funded between January 2015 till December 2017 are based in the above mentioned four cities.
+
+# Q6. Who are the Top Investors by number of startups funded.
+| Name	               | Number of Startups Funded   |
+| -----------------    |:-------------:|
+| Sequoia Capital 	   | 74                          |
+	Accel Partners	63
+	Kalaari Capital	51
+	Blume Ventures	47
+	SAIF Partners	45
+	Indian Angel Network	42
+	Tiger Global	41
+	IDG Ventures	40
+	Ratan Tata	30
+	Mohandas Pai	29
