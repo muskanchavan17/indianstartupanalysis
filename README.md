@@ -73,4 +73,5 @@ Checking out top 10 sub-categories of industry having highest number of startups
 |	amagi media labs    |	35000000      |
 |	mswipe              |	31000000      |
 |	qubole              |	30000000      |
+
 *Delhivery, Fractal Analytics, Rivigo* are top Technology based startups
