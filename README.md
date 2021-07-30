@@ -16,7 +16,7 @@ This project is based on a in-depth analysis on the Indian Startups Funding Data
 # What Is a Startup?
 A startup is a young company founded by one or more entrepreneurs to develop a unique product or service and bring it to market. By its nature, the typical startup tends to be a shoestring operation, with initial funding from the founders or their friends and families.
 
-# Why should a srartup need funding ?
+# Why should a startup need funding ?
 Attract the attention of the market and the future investors by having business funding. If your startup is getting funding from venture capital, or another business form, signalizes that you're positioned for the future. Funding increases your visibility and attracts the attention of the market.
 
 # Which year Startups are we looking at ? 
