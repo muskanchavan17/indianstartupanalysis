@@ -58,3 +58,19 @@ Checking out top 10 sub-categories of industry having highest number of startups
 | oyo	          | 100000000     |
 | mobikwik	    | 90000000      |
 | bookmyshow	  | 82000000      |
+
+# 2. Technology
+# Top Technology based startups on the basis of funds acquired
+| StartupName	        | AmountInUSD   |
+| -----------------   |:-------------:|
+|	delhivery           |	100000000     |
+|	fractal analytics 	| 100000000     |
+|	rivigo              |	75000000      |
+|	markets and markets |	56000000      |
+|	druva               |	51000000      |
+|	icertis             |	40000000      |
+|	eps                 |	35000000      |
+|	amagi media labs    |	35000000      |
+|	mswipe              |	31000000      |
+|	qubole              |	30000000      |
+*Delhivery, Fractal Analytics, Rivigo* are top Technology based startups
