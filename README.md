@@ -23,28 +23,29 @@ Attract the attention of the market and the future investors by having business 
 We're going to consider startups from January 2015 to December 2017
 
 # Q1. Top 20 Startups on the basis of funds acquired
+
 | StartupName	    | AmountInUSD  |
-| -------------   |:------------:|
-|	paytm	          | 2340000000
-|	flipkart        |	2259700000
-|	ola	            | 1899500000
-|	snapdeal	      | 700000000
-|	oyo rooms	      | 375000000
-|	quikr	          | 230000000
-|	delhivery	      | 215000000
-|	foodpanda	      | 210000000
-| shopclues       |	207700000
-|	bigbasket       |	207000000
-|	cartrade	      | 200000000
-|	makemytrip	    | 180000000
-|	byju’s          |	175000000
-|	hike	          | 175000000
-|	practo          |	175000000
-|	swiggy          |	170500000
-|	grofers         |	165000000
-|	oyorooms        |	162000000
-|	freecharge      |	137000000
-|	ecom express    |	137000000
+| --------------- |:------------:|
+|	paytm	          | 2340000000   |
+|	flipkart        |	2259700000   |
+|	ola	            | 1899500000   |
+|	snapdeal	      | 700000000    |
+|	oyo rooms	      | 375000000    |
+|	quikr	          | 230000000    |
+|	delhivery	      | 215000000    |
+|	foodpanda	      | 210000000    |
+| shopclues       |	207700000    |
+|	bigbasket       |	207000000    |
+|	cartrade	      | 200000000    |
+|	makemytrip	    | 180000000    |
+|	byju’s          |	175000000    |
+|	hike	          | 175000000    |
+|	practo          |	175000000    |
+|	swiggy          |	170500000    |
+|	grofers         |	165000000    |
+|	oyorooms        |	162000000    |
+|	freecharge      |	137000000    |
+|	ecom express    |	137000000    |
 
 ![](/images/1top20startups.png)
 
@@ -126,8 +127,9 @@ As we see from the graph above, maximum number of startups are based in Banglore
 72% of the startups funded between January 2015 till December 2017 are based in the above mentioned four cities.
 
 # Q6. Who are the Top Investors by number of startups funded.
+
 | Name	               | Number of Startups Funded   |
-| -----------------    |:---------------------------:|
+| -------------------- |:---------------------------:|
 | Sequoia Capital      | 74                          |
 | Accel Partners       | 63                          |
 | Kalaari Capital      | 51                          |
