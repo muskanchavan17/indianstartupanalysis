@@ -24,7 +24,7 @@ We're going to consider startups from January 2015 to December 2017
 
 # Q1. Top 20 Startups on the basis of funds acquired
 
-| StartupName	    | AmountInUSD  |
+| Startup Name	  | Amount In USD|
 | --------------- |:------------:|
 |	paytm	          | 2340000000   |
 |	flipkart        |	2259700000   |
@@ -70,7 +70,7 @@ Checking out top 10 sub-categories of industry having highest number of startups
 *Food Delivery Platform has 8 startups, followed by Online Lending Platform, Online Learning Platform, and Fitness Mobile App having 5,4, and 3 startups listed respectively*
 # Top consumer internet startups
 
-| Startup Name  | AmountInUSD   |
+| Startup Name  | Amount In USD |
 | ------------- |:-------------:|
 | ola           | 744500000     |
 | oyo rooms     | 250000000     |
@@ -85,7 +85,8 @@ Checking out top 10 sub-categories of industry having highest number of startups
 
 # 2. Technology
 # Top Technology based startups on the basis of funds acquired
-| StartupName	        | AmountInUSD   |
+
+| StartupName	        | Amount In USD |
 | -----------------   |:-------------:|
 |	delhivery           |	100000000     |
 |	fractal analytics 	| 100000000     |
@@ -101,7 +102,8 @@ Checking out top 10 sub-categories of industry having highest number of startups
 *Delhivery, Fractal Analytics, Rivigo* are top Technology based startups
 # 3. ECommerce
 # Top ECommerce based startups on the basis of funds acquired
-| StartupName         | AmountInUSD   |
+
+| Startup Name        | Amount In USD |
 | -----------------   |:-------------:|
 |	paytm	              | 1660000000    |
 |	flipkart            |	1509700000    |
