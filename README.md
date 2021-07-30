@@ -34,6 +34,27 @@ Minimum funds acquired by a startup:  16000.0
 # Q3. Which Industry has maximum number of startups?
 The top 3 industries having max number of startups are:
 
+![](/images/2.png)
 *Consumer, Internet Technology, ECommerce*
 
-![](/images/2.png)
+# Lets have a look at each industry from a closer point of view
+# 1. Consumer Internet
+
+Checking out top 10 sub-categories of industry having highest number of startups
+![](/images/3consumerinternetsub-category.png)
+
+*Food Delivery Platform has 8 startups, followed by Online Lending Platform, Online Learning Platform, and Fitness Mobile App having 5,4, and 3 startups listed respectively*
+# Top consumer internet startups
+
+| Startup Name  | AmountInUSD   |
+| ------------- |:-------------:|
+| ola           | 744500000     |
+| oyo rooms     | 250000000     |
+| cartrade      | 200000000     |
+| makemytrip    | 180000000     |
+| hike          | 175000000     |
+| swiggy	      | 137000000     |
+| byju’s	      | 125000000     |
+| oyo	          | 100000000     |
+| mobikwik	    | 90000000      |
+| bookmyshow	  | 82000000      |
