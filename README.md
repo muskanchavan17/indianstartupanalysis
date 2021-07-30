@@ -104,14 +104,14 @@ As we see from the graph above, maximum number of startups are based in Banglore
 
 # Q6. Who are the Top Investors by number of startups funded.
 | Name	               | Number of Startups Funded   |
-| -----------------    |:-------------:|
-| Sequoia Capital 	   | 74                          |
-	Accel Partners	63
-	Kalaari Capital	51
-	Blume Ventures	47
-	SAIF Partners	45
-	Indian Angel Network	42
-	Tiger Global	41
-	IDG Ventures	40
-	Ratan Tata	30
-	Mohandas Pai	29
+| -----------------    |:---------------------------:|
+| Sequoia Capital      | 74                          |
+| Accel Partners       | 63
+| Kalaari Capital      | 51
+| Blume Ventures       | 47
+| SAIF Partners	       | 45
+| Indian Angel Network | 42
+| Tiger Global	       | 41
+| IDG Ventures	       | 40
+| Ratan Tata           | 30
+| Mohandas Pai	       | 29
