@@ -75,3 +75,17 @@ Checking out top 10 sub-categories of industry having highest number of startups
 |	qubole              |	30000000      |
 
 *Delhivery, Fractal Analytics, Rivigo* are top Technology based startups
+# 3. ECommerce
+# Top ECommerce based startups on the basis of funds acquired
+| StartupName         | AmountInUSD   |
+| -----------------   |:-------------:|
+|	paytm	              | 1660000000    |
+|	flipkart            |	1509700000    |
+|	snapdeal	          | 200000000     |
+|	bigbasket           |	157000000     |
+|	shopclues	          | 107700000     |
+|	lenskart            |	63500000      |
+|	pepperfry	          | 31300000      |
+|	1mg	                | 30000000      |
+|	bluestone	          | 30000000      |
+|	voonik	            | 29000000      |
