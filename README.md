@@ -106,12 +106,20 @@ As we see from the graph above, maximum number of startups are based in Banglore
 | Name	               | Number of Startups Funded   |
 | -----------------    |:---------------------------:|
 | Sequoia Capital      | 74                          |
-| Accel Partners       | 63
-| Kalaari Capital      | 51
-| Blume Ventures       | 47
-| SAIF Partners	       | 45
-| Indian Angel Network | 42
-| Tiger Global	       | 41
-| IDG Ventures	       | 40
-| Ratan Tata           | 30
-| Mohandas Pai	       | 29
+| Accel Partners       | 63                          |
+| Kalaari Capital      | 51                          |
+| Blume Ventures       | 47                          |
+| SAIF Partners	       | 45                          |
+| Indian Angel Network | 42                          |
+| Tiger Global	       | 41                          |
+| IDG Ventures	       | 40                          |
+| Ratan Tata           | 30                          |
+| Mohandas Pai	       | 29                          |
+
+![](/images/7.png)
+
+# Q7. Which are the most common Investment types?
+![](/images/8.png)
+
+# Conclusion
+So, this was all our analysis, we got to know about the industries favored by investors, common investment types, and many more interesting observations about the Indian Startup Ecosystem. We also got to know that the year 2015 and 2016 were the booming years for Indian startups, with the most number of startups funded, and gradually started declining in 2017. A factor that could contribute to this sharp decline would be the announcement of Demonetization by the Indian Government in November 2016.
