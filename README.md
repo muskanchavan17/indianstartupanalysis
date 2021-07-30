@@ -36,4 +36,4 @@ The top 3 industries having max number of startups are:
 
 *Consumer, Internet Technology, ECommerce*
 
-![](/main/images/2.png)
+![](/images/2.png)
