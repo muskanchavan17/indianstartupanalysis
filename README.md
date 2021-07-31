@@ -1,8 +1,10 @@
+# Indian-Startup-Analysis
+
 ## Made by - 
 ## 1. Muskan Chavan
 ## 2. Shrutika Shinde
 ## 3. Divyangi Kolhe
-# Indian-Startup-Analysis
+
 This project is based on a in-depth analysis on the Indian Startups Funding Dataset taken from kaggle.com. From this analysis, We intend to answer questions related to the Indian Start-ups such as:-
 
 * What is the Quarterly trend in the number of startups funded in the given duration?
