@@ -1,7 +1,7 @@
 ## Made by - 
-## Muskan Chavan
-## Shrutika Shinde
-## Divyangi Kolhe
+## 1. Muskan Chavan
+## 2. Shrutika Shinde
+## 3. Divyangi Kolhe
 # Indian-Startup-Analysis
 This project is based on a in-depth analysis on the Indian Startups Funding Dataset taken from kaggle.com. From this analysis, We intend to answer questions related to the Indian Start-ups such as:-
 
